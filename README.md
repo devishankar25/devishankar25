@@ -1,6 +1,22 @@
-# 💫 About Me:
-## 💫 About Me  <br>Hi, I'm **Devi Moopanar**, a BCA graduate passionate about **web development**, with a growing interest in **cloud computing** and coding.<br><br>---<br><br>### 👨‍💻 What I Do  <br>I enjoy building responsive websites and web apps using:  <br>🌐 **HTML, CSS, JavaScript, PHP**  <br>🧩 **Bootstrap**, **MySQL**, and basic cloud hosting  <br>💡 I also explore small projects in **Python**, **Java**, and **C**<br><br>---<br><br>### 📚 Currently Learning  <br>🚀 Frontend frameworks like **React**  <br>🔧 Version control with **Git & GitHub**  <br>☁️ Fundamentals of **cloud platforms**<br><br>---<br><br>### 🌐 Connect with Me  <br>📸 [Instagram](https://www.instagram.com/devi._.0625)  <br>💼 [LinkedIn](https://www.linkedin.com/in/devis25/)  <br>📧 Email: devimoopanar@gmail.com<br>
+## 💫 About Me  
+Hi, I'm **Devi Moopanar**, a BCA graduate passionate about **web development**, with a growing interest in **cloud computing** and coding.
 
+---
+
+### 👨‍💻 What I Do  
+I enjoy building responsive websites and web apps using:  
+🌐 **HTML, CSS, JavaScript, PHP**  
+🧩 **Bootstrap**, **MySQL**, and basic cloud hosting  
+💡 I also explore small projects in **Python**, **Java**, and **C**
+
+---
+
+### 📚 Currently Learning  
+🚀 Frontend frameworks like **React**  
+🔧 Version control with **Git & GitHub**  
+☁️ Fundamentals of **cloud platforms**
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devi._.0625) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devis25/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devimoopanar@gmail.com) 
